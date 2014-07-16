@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="1.0"/>
+    <kernsubtable coverage="0" format="0">
+      <pair l="F" r="comma" v="-180"/>
+      <pair l="F" r="period" v="-140"/>
+      <pair l="F" r="s" v="-23"/>
+      <pair l="L" r="quotedblright" v="-190"/>
+      <pair l="L" r="quoteright" v="-150"/>
+      <pair l="e" r="x" v="-6"/>
+      <pair l="f" r="f" v="-28"/>
+      <pair l="g" r="g" v="-32"/>
+    </kernsubtable>
